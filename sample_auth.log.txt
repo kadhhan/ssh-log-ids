@@ -1,0 +1,6 @@
+Jan 10 10:01:12 server sshd[1234]: Failed password for invalid user admin from 192.168.1.10 port 54421 ssh2
+Jan 10 10:01:20 server sshd[1235]: Failed password for invalid user admin from 192.168.1.10 port 54422 ssh2
+Jan 10 10:01:35 server sshd[1236]: Failed password for invalid user admin from 192.168.1.10 port 54423 ssh2
+Jan 10 10:01:50 server sshd[1237]: Failed password for invalid user admin from 192.168.1.10 port 54424 ssh2
+Jan 10 10:02:05 server sshd[1238]: Failed password for invalid user admin from 192.168.1.10 port 54425 ssh2
+Jan 10 10:03:10 server sshd[1239]: Accepted password for user from 192.168.1.5 port 51233 ssh2
